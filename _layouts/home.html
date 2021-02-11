@@ -97,6 +97,16 @@
                   {{conf.note}}
                 </div>
                 {% endif %}
+                {% if conf.hindex %}
+                <div class="hindex">
+                  h-index: {{conf.hindex}}
+                </div>
+                {% endif %}
+                {% if conf.crank %}                
+                <div class="crank">
+                  Core-Rank: {{conf.crank}}
+                </div>                  
+                {% endif %}                
               </div>
               <div class="col-xs-12 col-sm-6">
                 <div class="deadline">
