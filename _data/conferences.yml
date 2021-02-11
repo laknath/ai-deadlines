@@ -14,6 +14,63 @@
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 28, 2021. More info <a href=''https://icml.cc/Conferences/2021/''>here</a>.'
 
+- title: IJCNN
+  hindex: 66
+  crank: A
+  year: 2021
+  id: ijcnn21
+  link: https://www.ijcnn.org/
+  deadline: '2021-02-10 23:59:00'
+  timezone: UTC-12
+  date: July 18-22, 2021
+  place: Virtual
+  sub: ML
+  
+- title: ICANN
+  hindex: 19
+  crank: B
+  year: 2021
+  id: ijcnn21
+  link: https://e-nns.org/icann2021/
+  deadline: '2021-03-15 23:59:00'
+  timezone: UTC-12
+  date: Sep 14-17, 2021
+  place: Virtual
+  sub: ML
+    
+- title: MDAI
+  crank: B
+  year: 2021
+  id: mdai21
+  link: http://www.mdai.cat/mdai2021/
+  deadline: '2021-03-22 23:59:00'
+  timezone: UTC-12
+  date: Sep 27-30, 2021
+  place: Hybrid
+  sub: ML
+    
+- title: FUSION
+  crank: C
+  year: 2021
+  id: fusion21
+  link: https://www.fusion2021.co.za/call-for-papers/
+  deadline: '2021-05-15 23:59:00'
+  timezone: UTC-12
+  date: Nov 1-4, 2021
+  place: South Africa
+  sub: ML
+  
+- title: PRICAI
+  crank: B
+  year: 2021
+  id: pricai21
+  link: https://www.pricai.org/2021
+  deadline: '2021-05-23 23:59:00'
+  timezone: UTC-12
+  date: Nov 8-12, 2021
+  place: Hanoi, Vietnam (online)
+  sub: ML  
+
 - title: KDD
   hindex: 30
   crank: A*  
