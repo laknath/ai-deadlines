@@ -2,6 +2,7 @@
 
 - title: ICML
   hindex: 135
+  rank: A*
   year: 2021
   id: icml21
   link: https://icml.cc/Conferences/2021
@@ -15,6 +16,7 @@
 
 - title: KDD
   hindex: 30
+  rank: A*  
   year: 2021
   id: kdd21
   link: https://www.kdd.org/kdd2021/
@@ -26,6 +28,7 @@
 
 - title: SIGIR
   hindex: 57
+  rank: A*  
   year: 2021
   id: sigir21
   link: http://sigir.org/sigir2021/
@@ -38,6 +41,7 @@
 
 - title: UAI
   hindex: 33
+  rank: A*
   year: 2021
   id: uai21
   link: http://auai.org/uai2021/
@@ -49,6 +53,7 @@
 
 - title: IROS
   hindex: 58
+  rank: A
   year: 2021
   id: iros21
   link: https://www.iros2021.org/important-dates
@@ -60,6 +65,7 @@
 
 - title: RSS
   hindex: 47
+  rank: A  
   year: 2021
   id: rss21
   link: https://roboticsconference.org/
@@ -71,6 +77,7 @@
 
 - title: ICCV
   hindex: 176
+  rank: A*
   year: 2021
   id: iccv2021
   link: http://iccv2021.thecvf.com/
@@ -82,6 +89,7 @@
 
 - title: ECML-PKDD
   hindex: 30
+  rank: A
   year: 2021
   id: ecmlpkdd2021
   link: https://2021.ecmlpkdd.org/
@@ -95,6 +103,7 @@
 
 - title: ALT
   hindex: 15
+  rank: B
   year: 2020
   id: alt20
   link: http://alt2020.algorithmiclearningtheory.org/
@@ -115,56 +124,9 @@
   place: Cambridge, UK
   sub: RO
 
-- title: COLT
-  hindex: 48
-  year: 2020
-  id: colt20
-  link: http://www.learningtheory.org/colt2020/
-  date: June 8-12, 2020
-  deadline: '2020-01-31 16:00:00'
-  timezone: America/Los_Angeles
-  place: Graz, Austria
-  sub: ML
-
-- title: ICCC
-  hindex: 22
-  year: 2020
-  id: iccc20
-  link: http://computationalcreativity.net/iccc20/
-  deadline: '2020-03-08 23:59:59'
-  timezone: UTC-12
-  date: June 29-July 3, 2020
-  place: Coimbra, Portugal
-  sub: ML
-
-- title: CIKM
-  hindex: 48
-  year: 2020
-  id: cikm20
-  link: https://cikm2020.org/
-  deadline: '2020-05-01 23:59:59'
-  abstract_deadline: '2020-04-24 23:59:59'
-  timezone: UTC-12
-  date: October 19-23, 2020
-  place: Galway, Ireland
-  sub: DM
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Apr 24, 2020. More info <a href=''https://cikm2020.org/call-for-papers-full-and-short-research-papers/''>here</a>.'
-
-- title: RecSys
-  hindex: 45
-  year: 2020
-  id: recsys20
-  link: https://recsys.acm.org/recsys20/
-  deadline: '2020-06-01 23:59:59'
-  abstract_deadline: '2020-05-25 23:59:59'
-  timezone: UTC-12
-  date: September 22-26, 2020
-  place: Online
-  sub: DM
-  note: '<b>NOTE</b>: Mandatory abstract deadline on May 25, 2020. More info <a href=''https://recsys.acm.org/recsys20/dates/''>here</a>.'
-
 - title: NeurIPS
   hindex: 169
+  rank: A*  
   year: 2020
   id: neurips20
   link: https://nips.cc/Conferences/2020
@@ -189,6 +151,7 @@
 
 - title: ICPR
   hindex: 38
+  rank: B  
   year: 2020
   id: icpr20
   link: https://www.micc.unifi.it/icpr2020/
@@ -211,6 +174,7 @@
 
 - title: AAAI
   hindex: 95
+  rank: A*  
   year: 2021
   id: aaai21
   link: https://aaai.org/Conferences/AAAI-21/
@@ -237,6 +201,7 @@
 
 - title: AAMAS
   hindex: 25
+  rank: A*  
   year: 2021
   id: aamas21
   link: https://aamas2021.soton.ac.uk/
@@ -261,6 +226,7 @@
 
 - title: AISTATS
   hindex: 52
+  rank: A  
   year: 2021
   id: aistats21
   link: https://www.aistats.org/aistats2021/
@@ -274,6 +240,7 @@
 
 - title: WWW
   hindex: 70
+  rank: A*  
   year: 2021
   id: www21
   link: http://www2021.thewebconf.org/
@@ -286,6 +253,7 @@
 
 - title: ICRA
   hindex: 94
+  rank: B  
   year: 2020
   id: icra21
   link: https://www.ieee-ras.org/component/rseventspro/event/1908-icra-2021-call-for-papers-deadline
@@ -297,6 +265,7 @@
 
 - title: ICAPS
   hindex: 28
+  rank: A*  
   year: 2021
   id: icaps21
   link: https://icaps21.icaps-conference.org/
@@ -325,6 +294,7 @@
 
 - title: IJCAI
   hindex: 67
+  rank: A*  
   year: 2021
   id: ijcai21
   link: https://ijcai-21.org/
