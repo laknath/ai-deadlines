@@ -71,17 +71,60 @@
   place: Hanoi, Vietnam (online)
   sub: ML  
 
- 
 - title: ICONIP
   crank: A
   year: 2021
-  id: iconip20
+  id: iconip21
   link: https://iconip2021.apnns.org/topics/
   deadline: '2021-06-30 23:59:00'
   timezone: UTC-12
   date: Dec 8-12, 2021
   place: Virtual
   sub: ML  
+  
+- title: IEA/AIE
+  crank: B
+  year: 2021
+  id: iea-aie21
+  link: https://ieaaie2021.wordpress.com/tracks/
+  deadline: '2021-02-01 23:59:00'
+  timezone: UTC-12
+  date: July 26-29, 2021
+  place: Virtual
+  sub: ML   
+  
+- title: IEA/AIE
+  crank: B
+  year: 2021
+  id: iea-aie21
+  link: https://ieaaie2021.wordpress.com/tracks/
+  deadline: '2021-02-01 23:59:00'
+  timezone: UTC-12
+  date: July 26-29, 2021
+  place: Virtual
+  sub: ML     
+
+- title: IEEE-ADPRL
+  crank: C
+  year: 2020
+  id: ieee-adprl20
+  link: http://www.ieeessci2020.org/symposiums/adprl.html
+  deadline: '2020-08-22 23:59:00'
+  timezone: UTC-12
+  date: Dec 01-04, 2020
+  place: Virtual
+  sub: ML   
+  
+- title: IEEE-ALIFE
+  crank: A
+  year: 2020
+  id: ieee-akufel20
+  link: http://www.ieeessci2020.org/symposiums/alife.html
+  deadline: '2020-08-22 23:59:00'
+  timezone: UTC-12
+  date: Dec 01-04, 2020
+  place: Virtual
+  sub: ML     
   
 - title: AI
   crank: C
