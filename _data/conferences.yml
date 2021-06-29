@@ -305,18 +305,6 @@
   place: Sorrento, Italy
   sub: DM
 
-- title: ICPR
-  hindex: 38
-  crank: B  
-  year: 2020
-  id: icpr20
-  link: https://www.micc.unifi.it/icpr2020/
-  deadline: '2020-07-15 23:59:00'
-  timezone: UTC+1
-  date: January 10-15, 2021
-  place: Milan, Italy
-  sub: ML
-
 - title: CoRL
   hindex: 20
   year: 2020
@@ -460,3 +448,41 @@
   date: August 21-26, 2021
   place: Montreal, Canada
   sub: ML
+  
+- title: ICAART
+  hindex: 6
+  crank: C 
+  year: 2022
+  id: icaart22
+  link: http://www.icaart.org/
+  deadline: '2021-08-14 23:59:59'
+  abstract_deadline: '2021-08-14 23:59:59'
+  timezone: UTC-12
+  date: February 03-05, 2022
+  place: Vienna, Austria
+  sub: ML  
+  
+- title: ICAART
+  hindex: 6
+  crank: C 
+  year: 2022
+  id: icaart22
+  link: http://www.icaart.org/
+  deadline: '2021-08-14 23:59:59'
+  abstract_deadline: '2021-08-14 23:59:59'
+  timezone: UTC-12
+  date: February 03-05, 2022
+  place: Vienna, Austria
+  sub: ML    
+  
+- title: ICPR
+  hindex: 38
+  crank: B  
+  year: 2020
+  id: icpr20
+  link: https://www.micc.unifi.it/icpr2020/
+  deadline: '2020-07-15 23:59:00'
+  timezone: UTC+1
+  date: January 10-15, 2021
+  place: Milan, Italy
+  sub: ML  
